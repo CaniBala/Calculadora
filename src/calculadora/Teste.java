@@ -2,9 +2,9 @@ package calculadora;
 
 public class Teste { //Classe para ser usada como teste.
 	
-	private int A,B; //Variaveis de teste
+	private int A,B; //Variaveis de teste.
 	
-	public Teste(int A,int B){ //construtor de teste
+	public Teste(int A,int B){ //construtor de teste.
 		
 		this.A = A;
 		this.B = B;
